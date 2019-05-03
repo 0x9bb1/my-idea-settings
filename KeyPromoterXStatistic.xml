@@ -14,7 +14,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Divide'">
@@ -49,6 +49,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'NextPermutation'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'NextPermutation'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'RemoveNthFromEnd'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -78,7 +86,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>28</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -153,6 +161,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'NextPermutation'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'NextPermutation'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'RemoveNthFromEnd'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -166,7 +182,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>102</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -174,7 +190,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Divide'">
@@ -199,6 +215,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'NIOSocketService'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'NextPermutation'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'NextPermutation'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RemoveNthFromEnd'">
@@ -270,7 +294,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>21</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
     </option>
