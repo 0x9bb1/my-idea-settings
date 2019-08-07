@@ -1,0 +1,9 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId=".ignore plugin" displayType="NONE" shouldLog="false" />
+    <notification groupId=".ignore plugin update information" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="IDE and Plugin Updates" displayType="NONE" shouldLog="false" />
+    <notification groupId="izhangzhihao.rainbow.brackets_UPDATE" displayType="NONE" />
+    <notification groupId="Lombok plugin" displayType="STICKY_BALLOON" shouldLog="false" />
+  </component>
+</application>
