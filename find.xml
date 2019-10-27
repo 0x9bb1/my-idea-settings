@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'learning-kafka'" />
     <option name="defaultScopeName" value="Project 'learning-kafka'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'learning-kafka'" />
   </component>
 </application>
